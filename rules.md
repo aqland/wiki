@@ -19,7 +19,7 @@ At the same time, unless mistakenly banned, will not unban anyone, will not have
 **[3]** Fraudulent and misleading behavior, excessive jokes  
 **[4]** Any dangerous and meaningless actions (vertical digging, ugly 1x1 tower, Randomly place or destroy blocks)  
 **[5]** Turning on any cheating resource pack (X-Ray, Night Vision)  
-**[6]** AD promotion, Saying cuss words, personal attacks, version washing (including Discord chat, will be muted)  
+**[6]** AD promotion, Saying cuss words, provocation, personal attacks, spamming (including Discord chat, will be muted)  
 
 !> 🛑 *Players who violate any of the following rules will be **permanently banned**.*  
 
