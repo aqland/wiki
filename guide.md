@@ -117,10 +117,13 @@ Then type in the amount
 I recommend /musicbox  
 anime  
 
-## MCMMO Skill  
+## MCMMO  
 
 https://mcmmo.fandom.com/wiki/
-### -=GATHERING SKILLS=-  
+
+### MCMMO Skill  
+
+#### -=GATHERING SKILLS=-  
 | Command | Description |
 | - | - |
 | `/excavation` | shows stats for your excavation |
@@ -128,7 +131,7 @@ https://mcmmo.fandom.com/wiki/
 | `/herbalism` | shows stats for your herbalism |
 | `/mining` | shows stats for your mining |
 | `/woodcutting` | shows stats for your woodcutting |
-### -=COMBAT SKILLS=-  
+#### -=COMBAT SKILLS=-  
 | Command | Description |
 | - | - |
 | `/archery` | shows stats for your archery |
@@ -136,7 +139,7 @@ https://mcmmo.fandom.com/wiki/
 | `/swords` | shows stats for your swords |
 | `/taming` | shows stats for your taming |
 | `/unarmed` | shows stats for your unarmed |
-### -=MISC SKILLS=-  
+#### -=MISC SKILLS=-  
 | Command | Description |
 | - | - |
 | `/acrobatics` | shows stats for your acrobatics |
