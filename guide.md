@@ -114,41 +114,49 @@ https://mcmmo.fandom.com/wiki/
 ### -=GATHERING SKILLS=-  
 | Command | Description |
 | - | - |
-| `/excavation` | shows stats for excavation |
-| `/fishing` | to check your fishing status |
-| `/herbalism` | shows stats for herbalism |
-| `/mining` | shows stats for mining |
-| `/woodcutting` | shows stats for woodcutting |
+| `/excavation` | shows stats for your excavation |
+| `/fishing` | shows stats for your fishing |
+| `/herbalism` | shows stats for your herbalism |
+| `/mining` | shows stats for your mining |
+| `/woodcutting` | shows stats for your woodcutting |
 ### -=COMBAT SKILLS=-  
-| `/archery` | shows stats for archery |
-| `/axes` | shows stats for axes |
-| `/swords` | shows stats for swords |
-| `/taming` | shows stats for taming |
-| `/unarmed` | shows stats for unarmed |
+| Command | Description |
+| - | - |
+| `/archery` | shows stats for your archery |
+| `/axes` | shows stats for your axes |
+| `/swords` | shows stats for your swords |
+| `/taming` | shows stats for your taming |
+| `/unarmed` | shows stats for your unarmed |
 ### -=MISC SKILLS=-  
-| `/acrobatics` | shows stats for acrobatics |
-| `/alchemy` | shows stats for alchemy |
-| `/repair` | shows stats for repair |
-| `/salvage` | shows stats for salvage |
-| `/smelting` | shows stats for smelting |
+| Command | Description |
+| - | - |
+| `/acrobatics` | shows stats for your acrobatics |
+| `/alchemy` | shows stats for your alchemy |
+| `/repair` | shows stats for your repair |
+| `/salvage` | shows stats for your salvage |
+| `/smelting` | shows stats for your smelting |
 
-`/mcability` Toggle mcMMO abilities being readied on right-click on/off
-`/mccooldown`
-`/mcinspect`
-`/mmoinspect`
-`/mcmmo`
-`/mcnotify` Toggle ability notifications on/off
-`/mcrank`: shows rank
-`/mcstats`
-`/mctop`
-`/mmoinfo`
-`/mmoxpbar`
-`/p`
-`/party`
-`/partychat`
-`/pc`
-`/pchat`
-`/ptp`
+| Command | Description |
+| - | - |
+| `/mcability` | Toggle mcMMO abilities being readied on right-click on/off |
+| `/mccooldown` | View all of the mcMMO ability cooldowns |
+| `/mcinspect <player>`<br>`/mmoinspect` | View detailed mcMMO info on another player |
+| `/mcmmo help` | mcMMO help |
+| `/mcnotify` | Toggle mcMMO abilities chat display notifications on/off |
+| `/mcrank` | shows rank |
+| `/mcstats` | View your mcMMO stats |
+| `/mctop` | Leaderboards |
+| `/mmoinfo` | 
+| `/mmoxpbar <reset | disable>`<br>`/mmoxpbar <show | hide | disable> <skillname>` | Player settings for mcMMO XP bars |
+
+| Command | Description |
+| - | - |
+| `/p`
+| `/party`
+| `/partychat`
+| `/pc`
+| `/pchat`
+| `/ptp`
 
 
 `/alts`
