@@ -32,7 +32,16 @@ Example:
 
 ## Query  
 
-`/list`: List all online players.  
+| Command | Description |
+| - | - |
+| `/list` | List all online players |
+| `/ping` | Pong! |
+| `/rg info` |  |
+| `/rg list` |  |
+| `/rules` | Views the server rules |
+| `/tps` | Gets the current ticks per second for the server |
+| `/warnings` | Displays active warnings for self |
+| `/dupeip <player>`<br>`/alts <player>` | Displays all players sharing an IP address |
 
 ### Inspector mode  
 
@@ -48,8 +57,8 @@ Feel free to report to the admins
 | - | - |
 | `/bal`<br>`/balance`<br>`/money` | to check your balance |
 | `/baltop`<br>`/balancetop` | to check the most top players balances |
-| `/pay` |  |
-| `/worth` |  |
+| `/pay <player> <amount>` | Pays another player from your balance |
+| `/worth <<itemname>|<id>|hand|inventory|blocks> [-][amount]` | Calculates the worth of items in hand or as specified |
 
 ### Selling  
 
@@ -87,23 +96,16 @@ Then type in the amount
 | `/teammsg` |  |
 | `/mail <player ID> <your words>` |  |
 
-### Items
+### Misc
 
 | Command | Description | Fee |
 | - | - | - |
-| `/itemname` | Renames the item your currently holding | $5 |
-| `/afk` | To afk  |
+| `/afk` | To afk |  |
 | `/hat`<br>`/head` | Get some cool new headgear |  |
 | `/sit` | To sit |
 | `/skin` |  |
-| `/dupeip <player>`<br>`/alts <player>` | Displays all players sharing an IP address |
+| `/itemname` | Renames the item your currently holding | $5 |
 | `/bl <lineNumber> <value>`<br>`/blocklocker <lineNumber> <value>` | Edit a sign on your protection |
-| `/list` |  |
-| `/ping` |  |
-| `/rg` |  |
-| `/rules` |  |
-| `/tps` |  |
-| `/warnings` |  |
 | `/kit`<br>`/kits` |  |
 
 ### Music  
