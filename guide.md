@@ -36,8 +36,8 @@ Example:
 | - | - |
 | `/list` | List all online players |
 | `/ping` | Pong! |
-| `/rg info` |  |
-| `/rg list` |  |
+| `/rg info` | Displays region information about your current location |
+| `/rg list` | list your own regions |
 | `/rules` | Views the server rules |
 | `/tps` | Gets the current ticks per second for the server |
 | `/warnings` | Displays active warnings for self |
@@ -182,4 +182,5 @@ https://mcmmo.fandom.com/wiki/
 | `/discord` | Show the invite link of the Discord server |
 | `/discord link` | Link Minecraft account with Discord account |
 | `/dynmap webregister` | Get the registration code for dynmap |
-| `/unlinkaccount` |  |
+| `/linkaccount` | Link your BE JE account for local linking |
+| `/unlinkaccount` | Unlink your BE JE account for local linking |
