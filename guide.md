@@ -182,5 +182,5 @@ https://mcmmo.fandom.com/wiki/
 | `/discord` | Show the invite link of the Discord server |
 | `/discord link` | Link Minecraft account with Discord account |
 | `/dynmap webregister` | Get the registration code for dynmap |
-| `/linkaccount` | Link your BE JE account for local linking |
+| `/linkaccount <player> [code]` | Link your BE JE account for local linking |
 | `/unlinkaccount` | Unlink your BE JE account for local linking |
