@@ -93,7 +93,7 @@ Then type in the amount
 ### Items
 
 | Command | Description | Fee |
-| - | - |
+| - | - | - |
 | `/itemname` | Renames the item your currently holding | $5 |
 | `/hat`<br>`/head` | Get some cool new headgear |  |
 
@@ -110,24 +110,24 @@ anime
 
 ## MCMMO Skill  
 
-### -=GATHERING SKILLS=-
-`/excavation`:
-`/fishing`: to check your fishing status 
-`/herbalism`:
-`/mining`:
-`/woodcutting`:
-### -=COMBAT SKILLS=-
-`/archery`:
-`/axes`:
-`/swords`:
-`/taming`:
-`/unarmed`:
-### -=MISC SKILLS=-
-`/acrobatics`:
-`/alchemy`:
-`/repair`:
-`/salvage`:
-`/smelting`:
+### -=GATHERING SKILLS=-  
+`/excavation`:  
+`/fishing`: to check your fishing status  
+`/herbalism`:  
+`/mining`:  
+`/woodcutting`:  
+### -=COMBAT SKILLS=-  
+`/archery`:  
+`/axes`:  
+`/swords`:  
+`/taming`:  
+`/unarmed`:  
+### -=MISC SKILLS=-  
+`/acrobatics`:  
+`/alchemy`:  
+`/repair`:  
+`/salvage`:  
+`/smelting`:  
 
 `/mcability` ability use toggle
 /mccooldown
