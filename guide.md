@@ -21,8 +21,8 @@ To TP
 | `/tpa <player>` | Request tp to player | $20 |
 | `/tpahere <player>` | Request player tp to you | $20 |
 | `/tpacancel [player]` | Cancel all outstanding teleport requests. Specify [player] to cancel requests with them |  |
-| `/tpaaccept [player|*]` | Accepts teleport requests |  |
-| `/tpadeny [player|*]` | Rejects teleport requests |  |
+| `/tpaaccept [player\|*]` | Accepts teleport requests |  |
+| `/tpadeny [player\|*]` | Rejects teleport requests |  |
 
 Note: if the player is playing bedrock edition please type the dot( in front of the player ID) as well  
 
@@ -58,7 +58,7 @@ Feel free to report to the admins
 | `/bal`<br>`/balance`<br>`/money` | to check your balance |
 | `/baltop`<br>`/balancetop` | to check the most top players balances |
 | `/pay <player> <amount>` | Pays another player from your balance |
-| `/worth <<itemname>|<id>|hand|inventory|blocks> [-][amount]` | Calculates the worth of items in hand or as specified |
+| `/worth <<itemname>\|<id>\|hand\|inventory\|blocks> [-][amount]` | Calculates the worth of items in hand or as specified |
 
 ### Selling  
 
