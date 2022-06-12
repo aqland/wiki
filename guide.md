@@ -11,7 +11,7 @@ To TP
 
 | Command | Description | Fee |
 | - | - | - |
-| `/rtp` | random tp | $20 |
+| `/rtp`<br>`/randomtp` | random tp | $20 |
 | `/warp` | select warp point | $15 |
 | `/sethome` | set home | $300 |
 | `/delhome` | delete home |  |
@@ -48,6 +48,8 @@ Feel free to report to the admins
 | - | - |
 | `/bal`<br>`/balance`<br>`/money` | to check your balance |
 | `/baltop`<br>`/balancetop` | to check the most top players balances |
+| `/pay` |  |
+| `/worth` |  |
 
 ### Selling  
 
@@ -78,6 +80,12 @@ Then type in the amount
 
 ## Chat
 
+| Command | Description |
+| - | - |
+| `/msg`<br>`/m`<br>`/pm`<br>`/t`<br>`/tell`<br>`/w`<br>`/whisper` |  |
+| `/r`<br>`/reply` |  |
+| `/teammsg` |  |
+
 ### Mail  
 
 `/mail <player ID> <your words>`  
@@ -96,6 +104,7 @@ Then type in the amount
 | - | - | - |
 | `/itemname` | Renames the item your currently holding | $5 |
 | `/hat`<br>`/head` | Get some cool new headgear |  |
+| `/skin` |  |
 
 ### Music  
 
@@ -146,49 +155,31 @@ https://mcmmo.fandom.com/wiki/
 | `/mcrank` | shows rank |
 | `/mcstats` | View your mcMMO stats |
 | `/mctop` | Leaderboards |
-| `/mmoinfo` | 
+| `/mmoinfo` | Read details about a skill or mechanic |
 | `/mmoxpbar <reset \| disable>`<br>`/mmoxpbar <show \| hide \| disable> <skillname>` | Player settings for mcMMO XP bars |
 
 | Command | Description |
 | - | - |
-| `/p`
-| `/party`
-| `/partychat`
-| `/pc`
-| `/pchat`
-| `/ptp`
+| `/p`<br>`/partychat`<br>`/pc`<br>`/pchat` | Toggle partychat |
+| `/party HELP` | Party help |
+| `/ptp` | Teleport to an mcMMO party member |
 
+| Command | Description |
+| - | - |
+| `/guild` |  |
 
-`/alts`
-`/dupeip`
-`/bl`
-`/blocklocker`
-`/discord`
-`/dynmap`
-`/guild`
-`/kit`
-`/kits`
+| Command | Description |
+| - | - |
+| `/dupeip <player>`<br>`/alts <player>` | Displays all players sharing an IP address |
+| `/bl <lineNumber> <value>`<br>`/blocklocker <lineNumber> <value>` | Edit a sign on your protection |
+| `/discord` | Show the invite link of the Discord server |
+| `/discord link` | Link Minecraft account with Discord account |
+| `/dynmap webregister` | Get the registration code for dynmap |
+`/kit`<br>`/kits`
 `/list`
-`/pay`
 `/ping`
-`/randomtp`
-`/rtp`
 `/rg`
 `/rules`
-`/skin`
-`/teammsg`
 `/tps`
 `/unlinkaccount`
 `/warnings`
-`/worth`
-
-`/msg`
-`/m`
-`/pm`
-`/t`
-`/tell`
-`/w`
-`/whisper`
-`/r`
-`/reply`
-`/mail`
