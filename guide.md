@@ -147,7 +147,7 @@ https://mcmmo.fandom.com/wiki/
 | `/mcstats` | View your mcMMO stats |
 | `/mctop` | Leaderboards |
 | `/mmoinfo` | 
-| `/mmoxpbar <reset | disable>`<br>`/mmoxpbar <show | hide | disable> <skillname>` | Player settings for mcMMO XP bars |
+| `/mmoxpbar <reset|disable>`<br>`/mmoxpbar <show|hide|disable> <skillname>` | Player settings for mcMMO XP bars |
 
 | Command | Description |
 | - | - |
