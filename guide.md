@@ -11,18 +11,18 @@ To TP
 
 | Command | Description | Fee |
 | - | - | - |
-| `/rtp`<br>`/randomtp` | random tp | $20 |
-| `/warp` | select warp point | $15 |
-| `/sethome` | set home | $300 |
-| `/delhome` | delete home |  |
-| `/home` | tp you to the home you have set | $20 |
-| `/suicide` | suicide | $10 |
+| `/rtp`<br>`/randomtp` | Random tp | $20 |
+| `/warp [name]` | select warp point or warp to the specified location | $15 |
+| `/sethome <name>` | Set home to your current location | $300 |
+| `/delhome <name>` | Removes a home |  |
+| `/home <name>` | Teleport to your home | $20 |
+| `/suicide` | Causes you to perish | $10 |
 | `/back` | tp you to the last place you died | $30 |
-| `/tpa <player ID>` | Request tp to player | $20 |
-| `/tpacancel` | tpacancel |  |
-| `/tpaaccept` | tpaaccept |  |
-| `/tpadeny` | tpadeny |  |
-| `/tpahere <player ID>` | Request player tp to you | $20 |
+| `/tpa <player>` | Request tp to player | $20 |
+| `/tpahere <player>` | Request player tp to you | $20 |
+| `/tpacancel [player]` | Cancel all outstanding teleport requests. Specify [player] to cancel requests with them |  |
+| `/tpaaccept [player|*]` | Accepts teleport requests |  |
+| `/tpadeny [player|*]` | Rejects teleport requests |  |
 
 Note: if the player is playing bedrock edition please type the dot( in front of the player ID) as well  
 
