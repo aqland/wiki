@@ -110,74 +110,77 @@ anime
 
 ## MCMMO Skill  
 
+https://mcmmo.fandom.com/wiki/
 ### -=GATHERING SKILLS=-  
-`/excavation`:  
-`/fishing`: to check your fishing status  
-`/herbalism`:  
-`/mining`:  
-`/woodcutting`:  
+| Command | Description |
+| - | - |
+| `/excavation` | shows stats for excavation |
+| `/fishing` | to check your fishing status |
+| `/herbalism` | shows stats for herbalism |
+| `/mining` | shows stats for mining |
+| `/woodcutting` | shows stats for woodcutting |
 ### -=COMBAT SKILLS=-  
-`/archery`:  
-`/axes`:  
-`/swords`:  
-`/taming`:  
-`/unarmed`:  
+| `/archery` | shows stats for archery |
+| `/axes` | shows stats for axes |
+| `/swords` | shows stats for swords |
+| `/taming` | shows stats for taming |
+| `/unarmed` | shows stats for unarmed |
 ### -=MISC SKILLS=-  
-`/acrobatics`:  
-`/alchemy`:  
-`/repair`:  
-`/salvage`:  
-`/smelting`:  
+| `/acrobatics` | shows stats for acrobatics |
+| `/alchemy` | shows stats for alchemy |
+| `/repair` | shows stats for repair |
+| `/salvage` | shows stats for salvage |
+| `/smelting` | shows stats for smelting |
 
-`/mcability` ability use toggle
-/mccooldown
-/mcinspect
-/mmoinspect
-/mcmmo
-/mcnotify notifications toggle
-/mcrank
-/mcstats
-/mctop
-/mmoinfo
-/mmoxpbar
-/p
-/party
-/partychat
-/pc
-/pchat
-/ptp
+`/mcability` Toggle mcMMO abilities being readied on right-click on/off
+`/mccooldown`
+`/mcinspect`
+`/mmoinspect`
+`/mcmmo`
+`/mcnotify` Toggle ability notifications on/off
+`/mcrank`: shows rank
+`/mcstats`
+`/mctop`
+`/mmoinfo`
+`/mmoxpbar`
+`/p`
+`/party`
+`/partychat`
+`/pc`
+`/pchat`
+`/ptp`
 
 
-/alts
-/dupeip
-/bl
-/blocklocker
-/discord
-/dynmap
-/guild
-/kit
-/kits
-/list
-/pay
-/ping
-/randomtp
-/rtp
-/rg
-/rules
-/skin
-/teammsg
-/tps
-/unlinkaccount
-/warnings
-/worth
+`/alts`
+`/dupeip`
+`/bl`
+`/blocklocker`
+`/discord`
+`/dynmap`
+`/guild`
+`/kit`
+`/kits`
+`/list`
+`/pay`
+`/ping`
+`/randomtp`
+`/rtp`
+`/rg`
+`/rules`
+`/skin`
+`/teammsg`
+`/tps`
+`/unlinkaccount`
+`/warnings`
+`/worth`
 
-/msg
-/m
-/pm
-/t
-/tell
-/w
-/whisper
-/r
-/reply
-/mail
+`/msg`
+`/m`
+`/pm`
+`/t`
+`/tell`
+`/w`
+`/whisper`
+`/r`
+`/reply`
+`/mail`
