@@ -145,6 +145,7 @@ https://mcmmo.fandom.com/wiki/
 | `/salvage` | shows stats for your salvage |
 | `/smelting` | shows stats for your smelting |
 
+### mcMMO Command  
 | Command | Description |
 | - | - |
 | `/mcability` | Toggle mcMMO abilities being readied on right-click on/off |
@@ -158,16 +159,19 @@ https://mcmmo.fandom.com/wiki/
 | `/mmoinfo` | Read details about a skill or mechanic |
 | `/mmoxpbar <reset \| disable>`<br>`/mmoxpbar <show \| hide \| disable> <skillname>` | Player settings for mcMMO XP bars |
 
+### mcMMO Party Command  
 | Command | Description |
 | - | - |
 | `/p`<br>`/partychat`<br>`/pc`<br>`/pchat` | Toggle partychat |
 | `/party HELP` | Party help |
 | `/ptp` | Teleport to an mcMMO party member |
 
+### Guild Command  
 | Command | Description |
 | - | - |
 | `/guild` |  |
 
+## Others  
 | Command | Description |
 | - | - |
 | `/dupeip <player>`<br>`/alts <player>` | Displays all players sharing an IP address |
@@ -175,11 +179,11 @@ https://mcmmo.fandom.com/wiki/
 | `/discord` | Show the invite link of the Discord server |
 | `/discord link` | Link Minecraft account with Discord account |
 | `/dynmap webregister` | Get the registration code for dynmap |
-`/kit`<br>`/kits`
-`/list`
-`/ping`
-`/rg`
-`/rules`
-`/tps`
-`/unlinkaccount`
-`/warnings`
+| `/kit`<br>`/kits` |  |
+| `/list` |  |
+| `/ping` |  |
+| `/rg` |  |
+| `/rules` |  |
+| `/tps` |  |
+| `/unlinkaccount` |  |
+| `/warnings` |  |
