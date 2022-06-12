@@ -85,26 +85,26 @@ Then type in the amount
 | `/msg`<br>`/m`<br>`/pm`<br>`/t`<br>`/tell`<br>`/w`<br>`/whisper` |  |
 | `/r`<br>`/reply` |  |
 | `/teammsg` |  |
-
-### Mail  
-
-`/mail <player ID> <your words>`  
-
-### To sit  
-
-`/sit`  
-
-### To afk  
-
-`/afk`  
+| `/mail <player ID> <your words>` |  |
 
 ### Items
 
 | Command | Description | Fee |
 | - | - | - |
 | `/itemname` | Renames the item your currently holding | $5 |
+| `/afk` | To afk  |
 | `/hat`<br>`/head` | Get some cool new headgear |  |
+| `/sit` | To sit |
 | `/skin` |  |
+| `/dupeip <player>`<br>`/alts <player>` | Displays all players sharing an IP address |
+| `/bl <lineNumber> <value>`<br>`/blocklocker <lineNumber> <value>` | Edit a sign on your protection |
+| `/list` |  |
+| `/ping` |  |
+| `/rg` |  |
+| `/rules` |  |
+| `/tps` |  |
+| `/warnings` |  |
+| `/kit`<br>`/kits` |  |
 
 ### Music  
 
@@ -174,19 +174,10 @@ https://mcmmo.fandom.com/wiki/
 | - | - |
 | `/guild` |  |
 
-## Others  
+## Link account  
 | Command | Description |
 | - | - |
-| `/dupeip <player>`<br>`/alts <player>` | Displays all players sharing an IP address |
-| `/bl <lineNumber> <value>`<br>`/blocklocker <lineNumber> <value>` | Edit a sign on your protection |
 | `/discord` | Show the invite link of the Discord server |
 | `/discord link` | Link Minecraft account with Discord account |
 | `/dynmap webregister` | Get the registration code for dynmap |
-| `/kit`<br>`/kits` |  |
-| `/list` |  |
-| `/ping` |  |
-| `/rg` |  |
-| `/rules` |  |
-| `/tps` |  |
 | `/unlinkaccount` |  |
-| `/warnings` |  |
