@@ -7,8 +7,6 @@ This is a command guidebook that might help you.
 
 ## Teleport
 
-To TP  
-
 | Command | Description | Fee |
 | - | - | - |
 | `/rtp`<br>`/randomtp` | Random tp | $20 |
