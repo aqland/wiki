@@ -104,7 +104,7 @@ Then type in the amount
 | `/skin [help\|set <skin>\|clear\|update\|url <SkinUrl> [steve/slim]]` | Manages your skin |
 | `/itemname [name]` | Renames the item your currently holding. Leave name empty to reset. You can add in color codes | $5 |
 | `/bl <lineNumber> <value>`<br>`/blocklocker <lineNumber> <value>` | Edit a sign on your protection |
-| `/kit`<br>`/kits` |  |
+| `/kit`<br>`/kits` | Open the Kits GUI |
 
 ### Music  
 
@@ -172,7 +172,7 @@ https://mcmmo.fandom.com/wiki/
 ### Guild Command  
 | Command | Description |
 | - | - |
-| `/guild` |  |
+| `/guild` | Showing help for guild |
 
 ## Link account  
 | Command | Description |
@@ -180,5 +180,5 @@ https://mcmmo.fandom.com/wiki/
 | `/discord` | Show the invite link of the Discord server |
 | `/discord link` | Link Minecraft account with Discord account |
 | `/dynmap webregister` | Get the registration code for dynmap |
-| `/linkaccount <player> [code]` | Link your BE JE account for local linking |
-| `/unlinkaccount` | Unlink your BE JE account for local linking |
+| `/linkaccount <player> [code]` | Link your bedrock and java account for local linking |
+| `/unlinkaccount` | Unlink your bedrock and java account for local linking |
