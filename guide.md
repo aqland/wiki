@@ -70,19 +70,15 @@ Note: it might not be funtionalble
 
 | Command | Description |
 | - | - |
-| `/shop help` | a list which includes all /sell commands |
+| `/shop help` | Showing help for shop |
 | `/shop buy` | change the shop to buy mode |
 | `/shop sell` | change the shop to sell mode |
 | `/shop remove` | remove the shop |
 
 How to create a shop  
-
 You can create a shop at COSTCO or your base  
-
 To create a shop you need a chest and the selected goods  
-
 Place the chest and break it with the selected good  
-
 Then type in the amount  
 
 ## Chat  
@@ -154,7 +150,7 @@ https://mcmmo.fandom.com/wiki/
 | `/mcability` | Toggle mcMMO abilities being readied on right-click on/off |
 | `/mccooldown` | View all of the mcMMO ability cooldowns |
 | `/mcinspect <player>`<br>`/mmoinspect` | View detailed mcMMO info on another player |
-| `/mcmmo help` | mcMMO help |
+| `/mcmmo help` | Showing help for mcMMO |
 | `/mcnotify` | Toggle mcMMO abilities chat display notifications on/off |
 | `/mcrank` | shows rank |
 | `/mcstats` | View your mcMMO stats |
