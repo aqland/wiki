@@ -91,20 +91,20 @@ Then type in the amount
 
 | Command | Description |
 | - | - |
-| `/msg`<br>`/m`<br>`/pm`<br>`/t`<br>`/tell`<br>`/w`<br>`/whisper` |  |
-| `/r`<br>`/reply` |  |
-| `/teammsg` |  |
-| `/mail <player ID> <your words>` |  |
+| `/msg`<br>`/m`<br>`/pm`<br>`/t`<br>`/tell`<br>`/w`<br>`/whisper` | Sends a private message to the specified player |
+| `/r`<br>`/reply` | Quickly reply to the last player to message you |
+| `/teammsg <message>` | Sends message to all players in the team of the entity who runs the command |
+| `/mail [read\|clear\|clear [number]\|send [to] [message]]` | Manages mail |
 
 ### Misc
 
 | Command | Description | Fee |
 | - | - | - |
-| `/afk` | To afk |  |
+| `/afk` | Marks you as away-from-keyboard |  |
 | `/hat`<br>`/head` | Get some cool new headgear |  |
 | `/sit` | To sit |
-| `/skin` |  |
-| `/itemname` | Renames the item your currently holding | $5 |
+| `/skin [help\|set <skin>\|clear\|update\|url <SkinUrl> [steve/slim]]` | Manages your skin |
+| `/itemname [name]` | Renames the item your currently holding. Leave name empty to reset. You can add in color codes | $5 |
 | `/bl <lineNumber> <value>`<br>`/blocklocker <lineNumber> <value>` | Edit a sign on your protection |
 | `/kit`<br>`/kits` |  |
 
