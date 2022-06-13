@@ -94,7 +94,7 @@ Then type in the amount
 | `/teammsg <message>` | Sends message to all players in the team of the entity who runs the command |
 | `/mail [read\|clear\|clear [number]\|send [to] [message]]` | Manages mail |
 
-### Misc
+## Misc
 
 | Command | Description | Fee |
 | - | - | - |
