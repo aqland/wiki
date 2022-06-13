@@ -144,7 +144,7 @@ https://mcmmo.fandom.com/wiki/
 | `/salvage` | shows stats for your salvage |
 | `/smelting` | shows stats for your smelting |
 
-### mcMMO Command  
+### mcMMO Commands  
 | Command | Description |
 | - | - |
 | `/mcability` | Toggle mcMMO abilities being readied on right-click on/off |
@@ -158,14 +158,14 @@ https://mcmmo.fandom.com/wiki/
 | `/mmoinfo` | Read details about a skill or mechanic |
 | `/mmoxpbar <reset \| disable>`<br>`/mmoxpbar <show \| hide \| disable> <skillname>` | Player settings for mcMMO XP bars |
 
-### mcMMO Party Command  
+### mcMMO Party  
 | Command | Description |
 | - | - |
 | `/p`<br>`/partychat`<br>`/pc`<br>`/pchat` | Toggle partychat |
 | `/party HELP` | Party help |
 | `/ptp` | Teleport to an mcMMO party member |
 
-### Guild Command  
+### Guild  
 | Command | Description |
 | - | - |
 | `/guild` | Showing help for guild |
