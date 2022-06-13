@@ -3,7 +3,7 @@
 
 - Getting started
   - [Game rules](rules.md)
-  - [🚧Guide](guide.md)
+  - [Guide](guide.md)
 - Aqualand World
   - [🚧Dimension list](aqualand/worlds.md)
   - [🚧Guilds](aqualand/guilds.md)
