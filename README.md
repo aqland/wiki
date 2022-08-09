@@ -8,12 +8,6 @@ Java port: `25565`
 ### 🌐 **Website**  
 https://aqualand.u3002.com/   
 
-### 🗺️ **Server maps**  
-Dynmap: https://aqualand.u3002.com/maps  
-~~Overviewer: https://aqualand.u3002.com/maps~~  
-~~Pl3xMap: https://aqualand.u3002.com/map~~  
-~~BlueMap: https://aqualand.u3002.com/live~~  
-
 Link your account in-game by typing `/discord link`  
 Send code to IRC Bot: @AqualandIRC#9055  
 Then you can chat in #irc channel.  
