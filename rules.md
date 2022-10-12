@@ -6,9 +6,10 @@ Although the server is amazing, players have to obey the rules so that the serve
 At the same time, unless mistakenly banned, will not unban anyone, will not have the opportunity to start over  
 
 ### **Basic rules**  
-**[1]** Be respectful  
-**[2]** Be ethical  
-**[3]** Use common sense  
+**[1]** Respect Others. Respect Yourself.  
+**[2]** Do not Grief or Troll other players  
+**[3]** Do not hack or abuse exploits  
+**[4]** Do not Spam, Advertise or otherwise cause meaningless annoyance to other players  
 
 ### **Prohibition**  
 
@@ -39,7 +40,7 @@ At the same time, unless mistakenly banned, will not unban anyone, will not have
 **[2]** No R18 pixel arts or any indecent content  
 **[3]** Unreasonable floating buildings will be demolished  
 **[4]** House and bridges must conform to real life structural mechanics  
-**[5]** Buildings must conform to local biomes  
+**[5]** Buildings should conform to the local biome as much as possible  
 **[6]** You can ask the help of the admin to build large works  
 **[7]** Keep a proper distance from other people's buildings, and further from groups of buildings and settlements  
 
