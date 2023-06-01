@@ -39,7 +39,7 @@ At the same time, unless mistakenly banned, will not unban anyone, will not have
 **[1]** Redstone machine must have a switch, flash can be enabled on demand  
 **[2]** No R18 pixel arts or any indecent content  
 **[3]** Unreasonable floating buildings will be demolished  
-**[4]** House and bridges must conform to real life structural mechanics  
+**[4]** House and bridges should conform to real life structural mechanics  
 **[5]** Buildings should conform to the local biome as much as possible  
 **[6]** You can ask the help of the admin to build large works  
 **[7]** Keep a proper distance from other people's buildings, and further from groups of buildings and settlements  
