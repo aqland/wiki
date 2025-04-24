@@ -1,6 +1,6 @@
 ﻿# 🥳 **Welcome to Aqualand!**  
 
-We are running **1.21.4**. You can join with Bedrock Edition or Java Edition  
+We are running **1.21.5**. You can join with Bedrock Edition or Java Edition  
 Server address: `play.u3002.com`  
 Bedrock port: `19132`  
 Java port: `25565`  
@@ -29,4 +29,3 @@ Global Linking: https://link.geysermc.org/
 ### 📊 **Other**  
 Stats: https://play.u3002.com/  
 Awards: https://play.u3002.com/stats/  
-Plan: https://play.u3002.com/stat/  
